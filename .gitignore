@@ -1,0 +1,27 @@
+
+target/
+build/
+project/boot
+
+# mac os file
+*.DS_Store
+
+# Compiled Source
+*.class
+
+# Log Files
+*.log
+
+# Eclipse project files
+.classpath
+.project
+
+# tmp files
+*.swp
+.cache
+
+# latex files
+paper.pdf
+paper.blg
+paper.bbl
+paper.aux
